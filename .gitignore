@@ -1,0 +1,7 @@
+
+bin/myapp/SendCalendarInvite.class
+bin/myapp/CalendarInviteService.class
+.settings/org.eclipse.jdt.core.prefs
+.project
+.classpath
+bin/myapp/MailService.class
